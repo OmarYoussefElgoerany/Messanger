@@ -1,6 +1,6 @@
 Web chat service that provides users to create, or join rooms.
 Offensive language detection to classify negative messages.
-You can check the project from https://messenger200.herokuapp.com/
+
 Requirments:
 sudo apt install nodejs
 sudo apt install npm
