@@ -1,4 +1,3 @@
-(Working on frontend by react.js is in progress...)
 Web chat service that provides users to create, or join rooms.
 Offensive language detection to classify negative messages.
 
