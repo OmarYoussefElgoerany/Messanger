@@ -2,17 +2,7 @@ Web chat service that provides users to create, or join rooms.
 Offensive language detection to classify negative messages.
 
 Requirments:
-sudo apt install nodejs
-sudo apt install npm
-npm init
-npm install express -save
-npm install nodemon -g
-npm install ejs -save
-npm install body-parser
-npm install mongoose
-npm install uuid
-npm install aylien_textapi
-npm install socket.io
+npm install
 
 To run the project :
 npm start
